@@ -1,0 +1,12 @@
+public ip address: 103.129.134.72
+Processor:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+Systen: Windows 10.0.22631
+Machine: AMD64
+Hostname: LAPTOP-6FILVH0U
+Private IP address: 192.168.56.1
+public ip address: 103.129.134.72
+Processor:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+Systen: Windows 10.0.22631
+Machine: AMD64
+Hostname: LAPTOP-6FILVH0U
+Private IP address: 192.168.56.1
