@@ -11,7 +11,7 @@
   Decrypte encrypted data through private key 
 
 
-  # Dependencies
+  # Dependencies🪟
   ## pynput
    1. used to monitor and log keyboard events(keystrikes).
    2. primary library for the keylogger functionality
@@ -45,13 +45,16 @@
    1. Helps manage parallel or delayed execution and wait times.
 
 # Implementation
- ## Encrypt
+ ## Encrypt🔒
   1. All gathered files (keystrokes, system info, audio, clipboard, screenshot) are encrypted using a Fernet key.
   2. The encryption key is generated and stored in a file
 
-  ## Email Sending
+  ## Email Sending📨
    1. Encrypted files are sent as email attachments.
    2. Uses Gmail’s SMTP with app password authentication.
+
+  ## Decryption🔓
+   1.  using the same Fernet key, files are decrypted back to readable format.
 
 
 # use_case(cybersecurity)
